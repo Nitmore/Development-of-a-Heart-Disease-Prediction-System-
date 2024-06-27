@@ -1,1 +1,1 @@
-# Development-of-a-Heart-Disease-Prediction-System-
+Performed data cleaning, feature engineering, and exploratory analysis to identify key health factors. Developed machine learning models like Logistic Regression and Random Forest for heart disease prediction. Created visualizations to interpret model predictions and highlight significant health indicators.
